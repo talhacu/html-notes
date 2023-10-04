@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+    font-family: Roboto;
+    font-style: initial;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: medium;
+}
+
+#talha{
+    border: 4px dotted black;
+    padding-top: 10px;
+    margin-bottom: 150px;
+}
+
+#zeyneb{
+    border: 5px solid purple;
+}

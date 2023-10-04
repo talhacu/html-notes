@@ -1,0 +1,54 @@
+h2 {
+    color: black;
+    background-color: bisque;
+
+
+}
+
+h3{
+    color: aqua;
+    background-color: black;
+
+}
+p{
+    color: chocolate;
+    background-color: darkgreen;
+
+}
+div{
+    background-color: bisque;
+}
+
+span {
+
+    background-color: aqua;
+    color: black;
+    
+}
+
+h1 {
+    color: black;
+    background-color: chartreuse;
+
+}
+
+.talha1 {
+    background-color: yellow;
+    color: black;
+
+}
+
+.ornek2 {
+background-color: black;
+color: wheat;
+
+}
+
+#secondparagraph{
+
+    color: aqua;
+}
+
+.seconddiv{
+    background-color: pink;
+}
